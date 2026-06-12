@@ -1,2 +1,5 @@
 data mentah/
 data bersih/events_clean.csv
+scema_model/coretan.ipynb
+scema_model/jurnal.py
+scema_model/calc.ipynb
