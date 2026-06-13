@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Judul Project: E-commerce Data Architecture & Revenue Analytics (WIP)
 
 🚧 Project Status: Active / In Progress
@@ -31,6 +30,3 @@ Transaction Aggregation: Menyelesaikan agregasi tabel Transactions (menyaring gr
 Profitability Analysis: Mengkalkulasi metrik ROI dan efektivitas diskon berdasarkan channel akuisisi.
 
 Visualization: Membangun dashboard ringkasan performa menggunakan Tableau.
-=======
-# ecommerce_analisis
->>>>>>> feb0c63e5aea0163217af08bf7e31c1b0de02dd0
