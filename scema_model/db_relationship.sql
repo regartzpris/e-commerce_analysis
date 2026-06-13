@@ -34,7 +34,6 @@ Table df_campaigns {
   end_date datetime
 }
 
-<<<<<<< HEAD
 Table df_transactions {
   transaction_id int [pk]
   timestamp datetime
@@ -56,9 +55,3 @@ Ref: df_events.campaign_id > df_campaigns.campaign_id
 Ref: df_transactions.customer_id > df_customers.customer_id
 Ref: df_transactions.product_id > df_products.product_id
 Ref: df_transactions.campaign_id > df_campaigns.campaign_id
-=======
-// Menghubungkan relasi (Foreign Key)
-Ref: df_events.customer_id > df_customers.customer_id
-Ref: df_events.product_id > df_products.product_id
-Ref: df_events.campaign_id > df_campaigns.campaign_id
->>>>>>> feb0c63e5aea0163217af08bf7e31c1b0de02dd0
